@@ -1,0 +1,33 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-threads-profile.threadsProfileScraper",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Marketing",
+		"Data & Storage"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-threads-profile#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-threads-profile#readme"
+			}
+		]
+	},
+	"alias": [
+		"threads",
+		"meta threads",
+		"profile",
+		"followers",
+		"posts",
+		"social media",
+		"influencer",
+		"scraper",
+		"apify",
+		"scrapeunblocker"
+	]
+}
