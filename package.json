@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-scrapeunblocker-threads-profile",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n community node for the Threads Profile Scraper Apify Actor by ScrapeUnblocker: public Threads profiles with bio, followers and recent posts with engagement counts as JSON",
 	"license": "MIT",
 	"homepage": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-threads-profile#readme",
